@@ -1,0 +1,12 @@
+
+Disparando www.google.com.br [142.250.218.163] com 32 bytes de dados:
+Resposta de 142.250.218.163: bytes=32 tempo=21ms TTL=116
+Resposta de 142.250.218.163: bytes=32 tempo=21ms TTL=116
+Resposta de 142.250.218.163: bytes=32 tempo=19ms TTL=116
+Resposta de 142.250.218.163: bytes=32 tempo=21ms TTL=116
+
+Estat¡sticas do Ping para 142.250.218.163:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 19ms, M ximo = 21ms, M‚dia = 20ms
